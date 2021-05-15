@@ -1,9 +1,6 @@
 # Paper chess pprchs
-**Idea:** paper chess via the command line
-**Benifits**
-    - python networking
-    - Opens up possibility of learning python ai 
-    - math
+Blindfolded chess in the terminal (sans voir). I suck at it but i wish not to. small low priority project. 
+ 
 **Aspects**
 1. Programming a chess game engine
 2. Add multiplayer functionality
