@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Paper Chess
 **Idea:** sans voir via the command line, different implementations in different languages.
 **Naming:** pprchs_[implementation]
@@ -26,4 +25,3 @@
 - Add multiplayer functionality
 - Make it a public linux package (pacman and apt)
 - Add AI to play solo
->>>>>>> 1b919c65f47ed75f0cade10637e1fa2f88932b12
