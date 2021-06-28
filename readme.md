@@ -1,6 +1,6 @@
 # Paper Chess
-**Idea:** sans voir via the command line, different implementations in different languages.
-**Naming:** pprchs_[implementation]
+**Idea:** sans voir via the command line, different implementations in different languages.  
+**Naming:** pprchs_[implementation]  
 **Form:** github package 
 
 ## pprchs_golang
