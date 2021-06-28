@@ -4,7 +4,6 @@
 **Form:** github package 
 
 ## pprchs_golang
----
 **Description:** single player paper chess written in golang  
 **Language:** Go
 
@@ -12,7 +11,6 @@
 2. moves via algebraic chess notation
 
 ## pprchs_python
----
 **Description:** single player paper chess written in python. Using ncurses for cheatview  
 **Language:** Python
 
